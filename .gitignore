@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+tests/synthetic.mp4
+tests/smoke_output/
+tests/frame150.png
+results/
+*.mp4
+!sample_output/*.png
+
+venv/

@@ -1,0 +1,17 @@
+{
+  "zones": [
+    {
+      "name": "restricted_entrance",
+      "type": "intrusion",
+      "polygon": [[100, 100], [350, 100], [350, 320], [100, 320]],
+      "color": [0, 0, 255]
+    },
+    {
+      "name": "lobby_waiting_area",
+      "type": "loitering",
+      "polygon": [[400, 150], [680, 150], [680, 420], [400, 420]],
+      "loiter_threshold_seconds": 8,
+      "color": [0, 165, 255]
+    }
+  ]
+}
