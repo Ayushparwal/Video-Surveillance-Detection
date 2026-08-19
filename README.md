@@ -89,7 +89,7 @@ This means:
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone Ayushparwal/Video-Surveillance-Detection
 cd surveillance_system
 pip install -r requirements.txt
 ```
